@@ -20,9 +20,21 @@ const Footer = () => {
                 <h4 className="footer__title">Company</h4>
 
                 <ul className="footer__links">
-                    <li><a href="#">Our program</a></li>
-                    <li><a href="#">Our plan</a></li>
-                    <li><a href="#">Become a member</a></li>
+                    <li>
+                        <a href="#">
+                            Our program
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Our plan
+                            </a>
+                        </li>
+                    <li>
+                        <a href="#">
+                            Become a member
+                            </a>
+                    </li>
                 </ul>
             </div>
 
